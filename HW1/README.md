@@ -23,23 +23,24 @@ Plot JBF image by using original image in `--image_path` and guidance image acco
 
 ### Directory layout
 
-├── part1 (DoG)
-│   ├── DoG.py              # class of DoG
-│   ├── eval.py             # evaluation
-│   ├── main.py             # main program to run
-│   └── testdata
-│       ├── 1.png
-│       ├── 1_gt.npy
-│       └── 2.png
-└── part2 (JBF)
-    ├── JBF.py              # class of JBF
-    ├── eval.py             # evaluation         
-    ├── main.py             # main program to run
-    └── testdata
-        ├── 1.png
-        ├── 1_setting.txt
-        ├── 2.png
-        ├── 2_setting.txt
-        ├── ex.png
-        ├── ex_gt_bf.png
-        └── ex_gt_jbf.png
+    .
+    ├── part1 (DoG)
+    │   ├── DoG.py              # class of DoG
+    │   ├── eval.py             # evaluation
+    │   ├── main.py             # main program to run
+    │   └── testdata
+    │       ├── 1.png
+    │       ├── 1_gt.npy
+    │       └── 2.png
+    └── part2 (JBF)
+       ├── JBF.py              # class of JBF
+       ├── eval.py             # evaluation         
+       ├── main.py             # main program to run
+       └── testdata
+           ├── 1.png
+           ├── 1_setting.txt
+           ├── 2.png
+           ├── 2_setting.txt
+           ├── ex.png
+           ├── ex_gt_bf.png
+           └── ex_gt_jbf.png
