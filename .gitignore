@@ -1,0 +1,10 @@
+# .gitignore
+
+ppts/
+R10521802/
+*.zip
+*.png
+*.pyc
+TA/
+*.docx
+*.pdf
