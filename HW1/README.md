@@ -6,7 +6,7 @@
 > [^1]: https://en.wikipedia.org/wiki/Difference_of_Gaussians
 > [^2]: https://en.wikipedia.org/wiki/Bilateral_filter
 
-In this project, we implement both DoG and JBF from scratch with OOP patterns. Part1 involves steps of creating gaussian images and DoG images, and eventually detecting feature points by the subtraction of DoG imgags. Part2 involves steps of computing spatial kernel and range kernel, and conducting join bilateral filter with guidance image (grayscale). By evaluating the cost between JBF image and BF image, we can find the optimized conversion to grayscale image.
+In this project, we implement both DoG and JBF from scratch with OOP patterns. Part1 involves steps of creating gaussian images and DoG images, and eventually detecting feature points by the subtraction of DoG imgags. Part2 involves steps of computing spatial kernel and range kernel, and conducting joint bilateral filter with guidance image (grayscale). By evaluating the cost between JBF image and BF image, we can find the optimized conversion to grayscale image.
 
 
 ### Usage (Part1)
