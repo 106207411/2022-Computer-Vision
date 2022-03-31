@@ -1,4 +1,4 @@
-[![github](https://img.shields.io/static/v1?label=github&message=106207411&color=<COLOR>)](https://www.github.com/106207411)[![Python 3.7.11](https://img.shields.io/badge/python-3.7.11-blue.svg)](https://www.python.org/downloads/release/python-3711/)[![opencv-python](https://img.shields.io/badge/opencv-2.1.2.30-blue)](https://pypi.org/project/opencv-python/4.1.2.30/)
+[![github](https://img.shields.io/static/v1?label=github&message=106207411&color=<COLOR>)](https://www.github.com/106207411)[![Python 3.7.11](https://img.shields.io/badge/python-3.7.11-blue.svg)](https://www.python.org/downloads/release/python-3711/)[![opencv-python](https://img.shields.io/badge/opencv-4.1.2.30-blue)](https://pypi.org/project/opencv-python/4.1.2.30/)
 
 # DoG & JBF
 
