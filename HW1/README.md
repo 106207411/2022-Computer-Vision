@@ -1,4 +1,6 @@
-## DoG & JBF
+[![github](https://img.shields.io/static/v1?label=github&message=106207411&color=<COLOR>)](https://www.github.com/106207411)[![Python 3.7.11](https://img.shields.io/badge/python-3.7.11-blue.svg)](https://www.python.org/downloads/release/python-3711/)[![opencv-python](https://img.shields.io/badge/opencv-2.1.2.30-blue)](https://pypi.org/project/opencv-python/4.1.2.30/)
+
+# DoG & JBF
 
 > Difference of Gaussians (DoG) is a feature enhancement algorithm that involves the subtraction of one Gaussian blurred version of an original image from another, less blurred version of the original.[^1]
 >
@@ -8,6 +10,7 @@
 
 In this project, we implement both DoG and JBF from scratch with OOP patterns. Part1 involves steps of creating gaussian images and DoG images, and eventually detecting feature points by the subtraction of DoG imgags. Part2 involves steps of computing spatial kernel and range kernel, and conducting joint bilateral filter with guidance image (grayscale). By evaluating the cost between JBF image and BF image, we can find the optimized conversion to grayscale image.
 
+- - -
 
 ### Usage (Part1)
 
@@ -20,6 +23,8 @@ Plot keypoints with different `--threshold` on the `--image_path` by using DoG.
 Plot JBF image by using original image in `--image_path` and guidance image accoriding to the config in the `--setting_path`.
 
 `python3 main.py --image_path './testdata/1.png' --setting_path './testdata/1_setting.txt'`
+
+---
 
 ### Directory layout
 
