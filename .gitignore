@@ -2,13 +2,11 @@
 
 ppts/
 R10521802/
+R10521802_hw2/
 *.zip
-*.png
 *.pyc
 TA/
 *.docx
-*.pdf
 upload.sh
-p2_data/
 *.pkl
 Final/
